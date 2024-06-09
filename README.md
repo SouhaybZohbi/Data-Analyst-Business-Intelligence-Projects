@@ -1,1 +1,1 @@
-# Data-Analyst-Business Intelligence-Projects
+# Data Analyst - Business Intelligence -Projects
